@@ -1,0 +1,3 @@
+/home/ning/ws/cpptest/cmake-build-debug/CMakeFiles/cpptest.dir
+/home/ning/ws/cpptest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ning/ws/cpptest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
